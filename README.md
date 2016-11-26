@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Ey yo was gooood 
+
+is al good in da hood
